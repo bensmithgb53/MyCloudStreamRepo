@@ -1,0 +1,8 @@
+{
+  "name": "My Custom Repo",
+  "description": "A repository for my favorite websites",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/bensmithgb53/MyCloudStreamRepo/main/plugins.json"
+  ]
+}
